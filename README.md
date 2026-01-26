@@ -74,9 +74,6 @@ A decision tree model is used with region, sector, and variance components as in
 
 The purpose of the model is to see which factors are most often associated with higher or lower margins. The model structure makes it easy to spot patterns, such as certain regions or sectors consistently appearing in negative margin outcomes.
 
----
-
-### 5. Identifying risk areas
 
 ---
 
